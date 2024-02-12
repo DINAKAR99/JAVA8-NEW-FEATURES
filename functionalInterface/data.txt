@@ -1,0 +1,6 @@
+id name    qty price
+1  mobile   1  20000
+2  tv       1  30000
+3  car      1  40000
+4  bike     1  50000
+            7  60888
